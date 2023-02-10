@@ -1,0 +1,50 @@
+.home{
+    height: 20%;
+    width: 20%;
+    background-color:#5cb1f1;
+}
+.logo{
+
+    text-align: center;
+}
+
+
+.container-fluid   {
+background-color:hsl(321, 96%, 67%) ;
+padding: 10px;
+
+}
+
+.nav-item  {
+font-style: oblique;
+font-weight: 300;
+
+
+ }
+
+ .dropdown{
+font-style: oblique;
+
+
+}
+
+
+footer {
+
+    height: 200px;
+    font-family:cursive;
+    background-color:hwb(180 21% 16% / 0.699);
+    font-size:x-small;
+    text-align: center;
+    
+    }
+    
+    #footertext1{
+    text-align:left;
+    
+    }
+    
+    #footertext2 {
+    text-align:right;
+    
+    }
