@@ -1,50 +1,107 @@
-.home{
-    height: 20%;
-    width: 20%;
-    background-color:#5cb1f1;
-}
-.logo{
+.body,
+.navbar,
+.entete {
+  align-content: center;
+  align-items: center;
 
-    text-align: center;
-}
-
-
-.container-fluid   {
-background-color:hsl(321, 96%, 67%) ;
-padding: 10px;
-
-}
-
-.nav-item  {
-font-style: oblique;
-font-weight: 300;
-
-
- }
-
- .dropdown{
-font-style: oblique;
-
-
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 
-footer {
+.bodyPresentation{
+  align-content: center;
+  align-items: center;
+  margin-left: 1%;
+  margin-right: 1%;
+}
 
-    height: 200px;
-    font-family:cursive;
-    background-color:hwb(180 21% 16% / 0.699);
-    font-size:x-small;
-    text-align: center;
-    
-    }
-    
-    #footertext1{
-    text-align:left;
-    
-    }
-    
-    #footertext2 {
-    text-align:right;
-    
-    }
+.bodyPresentationBas{
+  align-content: center;
+  align-items: center;
+  margin-left: -1%;
+  margin-right: -1%;
+}
+
+.home {
+  height: 20%;
+  width: 20%;
+  background-color: #5cb1f1;
+}
+
+
+
+.container-fluid {
+  background-color: rgb(247, 2, 165);
+  padding: 10px;
+
+}
+
+.nav-item {
+  font-style: oblique;
+  font-weight: 300;
+
+
+}
+
+
+a:link {
+  text-decoration: none;
+  color: hwb(41 2% 86%);
+
+}
+
+a:visited {
+  text-decoration: none;
+  color: hwb(41 2% 86%);
+
+}
+
+a:hover {
+  text-decoration: none;
+  color: hwb(41 2% 86%);
+}
+
+a:active {
+  text-decoration: none;
+  color: hwb(41 2% 86%);
+
+
+}
+
+.image {
+  width: 400px;
+  height: 200px;
+
+
+}
+
+.dropdown {
+  font-style: oblique;
+  color: hwb(180 100% 0%)
+}
+
+
+.slide-img {  
+  align-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+
+.slide-img a {
+  color: #fdffff;
+}
+
+
+
+
+.footer {
+
+  height: 200px;
+  font-family: cursive;
+  background-color: hwb(180 21% 16% / 0.699);
+  font-size: x-small;
+  text-align: center;
+
+}
