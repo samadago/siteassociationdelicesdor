@@ -4,8 +4,8 @@
   align-content: center;
   align-items: center;
 
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: 7%;
+  margin-right: 7%;
 
   
 }
@@ -73,15 +73,22 @@ a:active {
 }
 
 .image {
-  width: 400px;
+  width: 350px;
   height: 200px;
-
+border-radius: 5%;
 
 }
 
 
+.imageEvenement{
 
+  margin-left:2% ;
+}
 
+.burgerImage {
+
+  margin-bottom:2% ;
+}
 .slide-img {  
   align-content: center;
   align-items: center;
